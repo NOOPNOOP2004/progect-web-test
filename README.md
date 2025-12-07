@@ -1,5 +1,4 @@
-# Мой первый проект 
+# Penguin Project Present
 ## Проект 
 Этот репозиторий является каркасом для будущего веб-приложения. 
-## Ссылки- [Публичная страница на GitHub Pages](https://ВАШ_ЛОГИН.github.io/
- ИМЯ_РЕПОЗИТОРИЯ/) 
+## Ссылки - https://github.com/NOOPNOOP2004/progect-web-test/tree/master
